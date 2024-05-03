@@ -16,8 +16,10 @@ docker push ghcr.io/<your-github-name>/counter-frontend:v1
 ```backend-deployment.yaml``` <br>
 ```backend-route.yaml``` <br>
 ```backend-service.yaml``` <br>
+```frontend-config-map.yaml``` <br>
 ```frontend-deployment.yaml``` <br>
 ```frontend-route.yaml``` <br>
+```frontend-service.yaml``` <br>
 ```database-deployment.yaml``` <br>
 ```database-service.yaml``` <br>
 ```database-secret.yaml``` <br>
