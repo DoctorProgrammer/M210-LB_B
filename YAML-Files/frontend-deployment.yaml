@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: counter-backend
-          image: ghcr.io/doctorprogrammer/counter-backend:v1
+          image: ghcr.io/doctorprogrammer/counter-frontend:v1
           ports:
             - containerPort: 3000
           env:
